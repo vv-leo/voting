@@ -1,4 +1,4 @@
-# Voting（solidity,haedhat,react）
+# Voting（solidity,haedhat,react,ipfs）去中心化投票项目
 
 ## 业务介绍
 
